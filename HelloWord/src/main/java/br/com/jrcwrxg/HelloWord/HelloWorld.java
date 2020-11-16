@@ -8,6 +8,7 @@ import org.springframework.web.bind.annotation.ResponseBody;
 @Controller
 public class HelloWorld {
 	//Minha classe nova
+	int teste;
     // Configuramos esse método para ser executado quando
     // o usuário acessar localhost:8080.
     // Esse endereço é padrão.
